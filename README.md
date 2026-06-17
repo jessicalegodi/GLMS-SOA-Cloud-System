@@ -1,4 +1,3 @@
-# GLMS.MVC
 # GLMS SOA Cloud-Native System
  Overview
 
