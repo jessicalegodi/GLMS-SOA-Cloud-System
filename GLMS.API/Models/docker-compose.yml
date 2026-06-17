@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+
+  api:
+    image: mcr.microsoft.com/dotnet/aspnet:8.0
+    ports:
+      - "5001:8080"
+
+  mvc:
+    image: mcr.microsoft.com/dotnet/aspnet:8.0
+    ports:
+      - "5000:8080"
