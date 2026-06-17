@@ -42,12 +42,7 @@ docker-compose up --build
 ```
 
 ### 3. Access Applications
-
-MVC Frontend: http://localhost:5000
-API: http://localhost:5001
-Swagger: http://localhost:5001/swagger
   
-
 ## API Endpoints
 
 * GET /api/contracts
